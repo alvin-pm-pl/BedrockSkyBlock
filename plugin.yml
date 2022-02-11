@@ -1,0 +1,10 @@
+name: BedrockSkyBlock
+author: alvin0319
+main: alvin0319\BedrockSkyBlock\BedrockSkyBlock
+version: 0.0.1
+api: 4.0.0
+
+softdepend:
+  - EconomyAPI
+  - BedrockEconomy
+  - Capital
